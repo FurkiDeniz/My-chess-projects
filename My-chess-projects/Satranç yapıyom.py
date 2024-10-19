@@ -2,7 +2,7 @@ import tkinter as tk
 from PIL import Image, ImageTk 
 
 # Taş resimlerinin bulunduğu klasör
-image_folder = "C:/Users/asus/Desktop/satranç projesi/images"
+image_folder = "images"
 
 # Tahtanın kare boyutu
 square_size = 64
